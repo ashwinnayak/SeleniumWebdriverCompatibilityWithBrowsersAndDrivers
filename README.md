@@ -1,5 +1,5 @@
 # Selenium Webdriver Automation Compatibility
-### Environment Compatibility for Automated testing using Selenium Webdriver, IE, Firefox, Chrome, Java, Browser Drivers on Windows 7 ###
+### Environment Compatibility for Automated testing using Selenium Webdriver, IE, Firefox, Chrome, Java, Browser Drivers on Windows 7,10 ###
 
 | Selenium | GeckoDriver | Firefox | IEDriverServer | IE | ChromeDriver | Chrome | OS | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
